@@ -1,1 +1,6 @@
+<<<<<<< ours
 cuA TESST
+=======
+day la file 
+cua main
+>>>>>>> theirs
